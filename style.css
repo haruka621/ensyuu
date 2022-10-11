@@ -1,0 +1,101 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+header{
+  width:100%;
+  padding:20px 0;
+  text-align:center;
+}
+
+ .nav-list{
+   text-align:center;
+   padding:15px 0;
+   margin:0 auto;
+   border-top:solid 1px #6c6b6b;
+   border-bottom:solid 1px #6c6b6b;
+ }
+ .nav-list-item{
+   list-style:none;
+   display:inline-block;
+   margin:0 20px;
+ }
+ .main{
+   width:800px;
+   margin:50px auto;
+   display:flex;
+   flex-wrap:wrap;
+ }
+ .lightgreen{
+   background-color:#e6ffe9;
+   height:200px;
+   width:200px;
+ }
+ .palegreen{
+   background-color:#cbffd3;
+   height:200px;
+   width:200px;
+ }
+ .yellowgreen{
+   background-color:#aeffbd;
+   height:200px;
+   width:200px;
+ }
+ .green{
+   background-color:#93ffab;
+   height:200px;
+   width:200px;
+ }
+ .lightyellow{
+   background-color:#f3ffd8;
+   height:200px;
+   width:200px;
+ }
+ .paleyellow{
+   background-color:#edffbe;
+   height:200px;
+   width:200px;
+ }
+ .lemonyellow{
+   background-color:#e9ffa5;
+   height:200px;
+   width:200px;
+ }
+ .yellow{
+   background-color:#e4ff8d;
+   height:200px;
+   width:200px;
+ }
+ .lightblue{
+   background-color:#d9e5ff;
+   height:200px;
+   width:200px;
+ }
+ .paleblue{
+   background-color:#bad3ff;
+   height:200px;
+   width:200px;
+ }
+ .seablue{
+   background-color:#a4c6ff;
+   height:200px;
+   width:200px;
+ }
+ .blue{
+   background-color:#8eb9ff;
+   height:200px;
+   width:200px;
+ }
+ footer{
+   background-color:gray;
+   height:120px;
+   width:100%;
+   line-height:120px;
+   text-align:center;
+   font-size:2px;
+ }
+ .footer-text{
+  color:white;
+ }
